@@ -1,0 +1,49 @@
+peixe,preço de venda (normal),preço de venda (prata),preço de venda (ouro),preço de venda (íridio),localização,horário,estação,clima
+baiacu,200,250,300,400,oceano,12:00 – 16:00,verão,sol
+anchova,30,37,45,60,oceano,qualquer hora,"primavera, outono",qualquer
+atum,100,125,150,200,oceano,6:00 – 19:00,"verão, inverno",qualquer
+sardinha,40,50,60,80,oceano,6:00 – 19:00,"primavera, outono, inverno",qualquer
+brema,45,56,67,90,rio,18:00 – 2:00,todas,qualquer
+achigã,100,125,150,200,lago da montanha,6:00 – 19:00,todas,qualquer
+achigã-pequeno,50,62,75,100,"rio, lago da floresta",qualquer hora,"primavera, outono",qualquer
+truta arco-íris,65,81,97,130,"rio, lago da montanha",6:00 – 19:00,verão,sol
+salmão,75,93,112,150,rio,6:00 – 19:00,outono,qualquer
+picão-verde,105,131,157,210,"rio, lago da floresta",12:00 – 2:00,"outono, inverno",chuva
+perca,55,68,82,110,"rio, lago da floresta, lago da montanha",qualquer hora,inverno,qualquer
+carpa,30,37,45,60,"lago da montanha, lagoa do bosque secreto, os esgotos",qualquer hora,todas,qualquer
+bagre,200,250,300,400,"rio, lagoa do bosque secreto, pântano da bruxa",6:00 – 00:00,"primavera, outono",chuva
+lúcio,100,125,150,200,"rio, lago da floresta",qualquer hora,"verão, inverno",qualquer
+peixe-sol,30,37,45,60,rio,6:00 – 19:00,"primavera, verão","sol, vento"
+salmonete,75,93,112,150,oceano,6:00 – 19:00,"verão, inverno",qualquer
+arenque,30,37,45,60,oceano,qualquer hora,"primavera, inverno",qualquer
+enguia,85,106,127,170,oceano,16:00 – 2:00,"primavera, outono",chuva
+polvo,150,187,225,300,oceano,6:00 – 13:00,verão,qualquer
+cioba,50,62,75,100,oceano,6:00 – 19:00,"verão, outono, inverno",chuva
+lula,80,100,120,160,oceano,18:00 – 2:00,inverno,qualquer
+pepino-do-mar,75,93,112,150,oceano,6:00 – 19:00,"outono, inverno",qualquer
+superpepino,250,312,375,500,oceano,18:00 – 2:00,"verão, outono",qualquer
+peixe-fantasma,45,56,67,90,mina,qualquer hora,todas,qualquer
+peixe-pedra,300,375,450,600,mina,qualquer hora,todas,qualquer
+chione,500,625,750,1000,mina,qualquer hora,todas,qualquer
+enguia de lava,700,875,1050,1400,mina,qualquer hora,todas,qualquer
+areinha,75,93,112,150,o deserto,6:00 – 20:00,todas,qualquer
+carpa escorpiônica,150,187,225,300,o deserto,6:00 – 20:00,todas,qualquer
+linguado,100,125,150,200,oceano,6:00 – 20:00,"primavera, verão",qualquer
+carpa da meia-noite,150,187,225,300,"lago da montanha, lago da floresta",22:00 – 2:00,"outono, inverno",qualquer
+esturjão,200,250,300,400,lago da montanha,6:00 – 19:00,"verão, inverno",qualquer
+salmão híbrido,150,187,225,300,rio,6:00 – 19:00,"outono, inverno",qualquer
+peixe-gato-cabeçudo,75,93,112,150,lago da montanha,qualquer hora,todas,qualquer
+tilápia,75,93,112,150,oceano,6:00 – 14:00,"verão, outono",qualquer
+esquálio,50,62,75,100,rio,qualquer hora,todas,qualquer
+dourado,100,125,150,200,rio,6:00 – 19:00,verão,qualquer
+albacora,75,93,112,150,oceano,6:00 – 11:00,"outono, inverno",qualquer
+alocine,60,75,90,120,rio,9:00 – 2:00,"primavera, verão, outono",chuva
+ófis,120,150,180,240,rio,qualquer hora,inverno,qualquer
+halibute,80,100,120,160,"oceano, lago da montanha",6:00 – 11:00,"primavera, verão, inverno",qualquer
+madeirão,75,93,112,150,lagoa do bosque secreto,qualquer hora,todas,qualquer
+salmão nulo,150,187,225,300,pântano da bruxa,qualquer hora,todas,qualquer
+salmão mutante,100,125,150,200,covil dos insetos mutantes,qualquer hora,todas,qualquer
+peixe-leão,100,125,150,200,oceano da ilha gengibre,qualquer hora,todas,qualquer
+acará-disco azul,120,150,180,240,lagos e rios da ilha gengibre,qualquer hora,todas,qualquer
+gobi,150,187,225,300,cachoeira da floresta cinzaseiva,qualquer hora,todas,qualquer
+arraia,180,225,270,360,caverna do pirata,qualquer hora,todas,qualquer
