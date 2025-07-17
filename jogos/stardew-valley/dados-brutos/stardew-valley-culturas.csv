@@ -1,0 +1,40 @@
+nome da cultura,estações de plantio,tempo de crescimento (dias),unidades por colheita,energia restaurada,saúde restaurada,colheitas contínuas?,tempo de recolheita (dias),quantidade de colheitas ou replantes,preço da semente,preço de venda (normal),preço de venda (prata),preço de venda (ouro),preço de venda (irídio)
+alho,primavera,4,1,20,9,não,,6,40,60,75,90,120
+arroz não moído,primavera,8,1,3,1,não,,3,40,30,37,45,60
+batata,primavera,6,1,25,11,não,,4,50,80,100,120,160
+cenoura,primavera,3,1,75,33,não,,9,0,35,43,52,70
+chirívia,primavera,4,1,25,11,não,,6,20,35,43,52,70
+couve,primavera,6,1,50,22,não,,4,70,110,137,165,220
+couve-flor,primavera,12,1,75,33,não,,2,80,175,218,262,350
+grão de café,primavera,10,4,,,sim,2,9,100,15,18,22,30
+jasmim-azul,primavera,7,1,45,20,não,,3,30,50,62,75,100
+morango,primavera,8,1,50,22,sim,4,5,100,120,150,180,240
+ruibarbo,primavera,13,1,,,não,,2,100,220,275,330,440
+tulipa,primavera,6,1,45,20,não,,4,20,30,37,45,60
+vagem,primavera,10,1,25,11,sim,3,6,60,40,50,60,80
+abobrinha de verão,verão,6,1,63,28,não,,4,0,45,56,67,90
+carambola,verão,13,1,125,56,não,,2,400,750,937,1125,1500
+flor-miçanga,verão,8,1,45,20,não,,3,50,90,112,135,180
+girassol,verão,8,1,45,20,não,,3,200,80,100,120,160
+lúpulo,verão,11,1,45,20,sim,1,17,60,25,31,37,50
+melão,verão,12,1,113,50,não,,2,80,250,312,375,500
+milho,verão,14,1,25,11,sim,4,3,150,50,62,75,100
+mirtilo,verão,13,3,25,11,sim,4,3,80,50,62,75,100
+papoula,verão,7,1,45,20,não,,3,100,140,175,210,280
+pimenta quente,verão,5,1,13,5,sim,3,7,40,40,50,60,80
+rabanete,verão,6,1,45,20,não,,4,40,90,112,135,180
+repolho roxo,verão,9,1,75,33,não,,3,100,260,325,390,520
+tomate,verão,11,1,20,9,sim,4,4,50,60,75,90,120
+trigo,verão,4,1,,,não,,6,10,25,31,37,50
+abóbora,outono,13,1,,,não,,2,100,320,400,480,640
+alcachofra,outono,8,1,30,13,não,,3,30,160,200,240,320
+amaranto,outono,7,1,50,22,não,,3,70,150,187,225,300
+berinjela,outono,5,1,20,9,sim,5,4,20,60,75,90,20
+beterraba,outono,6,1,30,13,não,,4,20,100,125,150,200
+brócolis,outono,8,1,63,28,não,,3,0,70,87,105,140
+couve chinesa,outono,4,1,25,11,não,,6,50,80,100,120,160
+inhame,outono,10,1,45,20,não,,2,60,160,200,240,320
+oxicoco,outono,7,2,38,17,sim,5,4,240,75,93,112,150
+rosa-de-fada,outono,12,1,45,20,não,,2,200,290,362,435,580
+uva,outono,10,1,38,17,sim,3,6,60,80,100,120,160
+melão-poeiro,inverno,7,1,63,28,não,,3,0,60,75,90,120
