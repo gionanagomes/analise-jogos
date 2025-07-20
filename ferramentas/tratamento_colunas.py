@@ -27,12 +27,11 @@ def converter_hora_para_periodo(hora_numerica):
     else:
         return 'noite'
 
+# tratamento_dados_pesca.py
+
 def processar_localizacao(df):
     df_copia = df.copy()
 
-    df_copia['localizacao_individual'] = df_copia['localizacao'].str.split(',').str[0].str.strip().str.lower()
-    
-    df_copia['localizacao_individual'] = df_copia['localizacao_individual'].str.replace('floresta', 'lago_floresta')
-    df_copia['localizacao_individual'] = df_copia['localizacao_individual'].str.replace('montanha', 'lago_montanha')
+    df_copia['localizacoes_lista'] = df_copia['localizacao'].str.split(',').str.strip().str.lower()
     
     return df_copia
