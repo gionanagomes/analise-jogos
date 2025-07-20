@@ -6,7 +6,7 @@ def calcular_lucro_pesca(df, colunas_venda):
     for col_venda in colunas_venda:
         df_copy[col_venda] = pd.to_numeric(df_copy[col_venda], errors='coerce').fillna(0)
 
-        suffix = col_venda.replace('preço venda ', '').replace('preço ', '').replace(' ', '_').capitalize()
+        suffix = col_venda.replace('preco_de_venda_', '').replace('preco ', '').replace(' ', '_')
         if suffix == 'normal':
             suffix = 'normal'
         elif suffix == 'prata':
