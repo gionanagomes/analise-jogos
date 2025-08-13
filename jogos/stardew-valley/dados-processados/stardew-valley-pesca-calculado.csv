@@ -1,0 +1,97 @@
+peixe,preco_de_venda_normal,preco_de_venda_prata,preco_de_venda_ouro,preco_de_venda_iridio,localizacao,hora_inicio,hora_fim,estacao,clima,lucro_por_peixe_normal,lucro_por_peixe_prata,lucro_por_peixe_ouro,lucro_por_peixe_iridio,periodo
+baiacu,200,250,300,400,oceano,12,16,verão,sol,200,250,300,400,tarde
+anchova,30,37,45,60,oceano,qualquer,qualquer,primavera,qualquer,30,37,45,60,qualquer horário
+anchova,30,37,45,60,oceano,qualquer,qualquer,outono,qualquer,30,37,45,60,qualquer horário
+atum,100,125,150,200,oceano,6,19,verão,qualquer,100,125,150,200,manhã
+atum,100,125,150,200,oceano,6,19,inverno,qualquer,100,125,150,200,manhã
+sardinha,40,50,60,80,oceano,6,19,primavera,qualquer,40,50,60,80,manhã
+sardinha,40,50,60,80,oceano,6,19,outono,qualquer,40,50,60,80,manhã
+sardinha,40,50,60,80,oceano,6,19,inverno,qualquer,40,50,60,80,manhã
+brema,45,56,67,90,rio,18,26,todas,qualquer,45,56,67,90,noite/madrugada
+achigã,100,125,150,200,lago da montanha,6,19,todas,qualquer,100,125,150,200,manhã
+achigã-pequeno,50,62,75,100,rio,qualquer,qualquer,primavera,qualquer,50,62,75,100,qualquer horário
+achigã-pequeno,50,62,75,100,lago da floresta,qualquer,qualquer,primavera,qualquer,50,62,75,100,qualquer horário
+achigã-pequeno,50,62,75,100,rio,qualquer,qualquer,outono,qualquer,50,62,75,100,qualquer horário
+achigã-pequeno,50,62,75,100,lago da floresta,qualquer,qualquer,outono,qualquer,50,62,75,100,qualquer horário
+truta arco-íris,65,81,97,130,rio,6,19,verão,sol,65,81,97,130,manhã
+truta arco-íris,65,81,97,130,lago da montanha,6,19,verão,sol,65,81,97,130,manhã
+salmão,75,93,112,150,rio,6,19,outono,qualquer,75,93,112,150,manhã
+picão-verde,105,131,157,210,rio,12,26,outono,chuva,105,131,157,210,tarde
+picão-verde,105,131,157,210,lago da floresta,12,26,outono,chuva,105,131,157,210,tarde
+picão-verde,105,131,157,210,rio,12,26,inverno,chuva,105,131,157,210,tarde
+picão-verde,105,131,157,210,lago da floresta,12,26,inverno,chuva,105,131,157,210,tarde
+perca,55,68,82,110,rio,qualquer,qualquer,inverno,qualquer,55,68,82,110,qualquer horário
+perca,55,68,82,110,lago da floresta,qualquer,qualquer,inverno,qualquer,55,68,82,110,qualquer horário
+perca,55,68,82,110,lago da montanha,qualquer,qualquer,inverno,qualquer,55,68,82,110,qualquer horário
+carpa,30,37,45,60,lago da montanha,qualquer,qualquer,todas,qualquer,30,37,45,60,qualquer horário
+carpa,30,37,45,60,lagoa do bosque secreto,qualquer,qualquer,todas,qualquer,30,37,45,60,qualquer horário
+carpa,30,37,45,60,os esgotos,qualquer,qualquer,todas,qualquer,30,37,45,60,qualquer horário
+bagre,200,250,300,400,rio,6,24,primavera,chuva,200,250,300,400,manhã
+bagre,200,250,300,400,lagoa do bosque secreto,6,24,primavera,chuva,200,250,300,400,manhã
+bagre,200,250,300,400,pântano da bruxa,6,24,primavera,chuva,200,250,300,400,manhã
+bagre,200,250,300,400,rio,6,24,outono,chuva,200,250,300,400,manhã
+bagre,200,250,300,400,lagoa do bosque secreto,6,24,outono,chuva,200,250,300,400,manhã
+bagre,200,250,300,400,pântano da bruxa,6,24,outono,chuva,200,250,300,400,manhã
+lúcio,100,125,150,200,rio,qualquer,qualquer,verão,qualquer,100,125,150,200,qualquer horário
+lúcio,100,125,150,200,lago da floresta,qualquer,qualquer,verão,qualquer,100,125,150,200,qualquer horário
+lúcio,100,125,150,200,rio,qualquer,qualquer,inverno,qualquer,100,125,150,200,qualquer horário
+lúcio,100,125,150,200,lago da floresta,qualquer,qualquer,inverno,qualquer,100,125,150,200,qualquer horário
+peixe-sol,30,37,45,60,rio,6,19,primavera,sol,30,37,45,60,manhã
+peixe-sol,30,37,45,60,rio,6,19,primavera,vento,30,37,45,60,manhã
+peixe-sol,30,37,45,60,rio,6,19,verão,sol,30,37,45,60,manhã
+peixe-sol,30,37,45,60,rio,6,19,verão,vento,30,37,45,60,manhã
+salmonete,75,93,112,150,oceano,6,19,verão,qualquer,75,93,112,150,manhã
+salmonete,75,93,112,150,oceano,6,19,inverno,qualquer,75,93,112,150,manhã
+arenque,30,37,45,60,oceano,qualquer,qualquer,primavera,qualquer,30,37,45,60,qualquer horário
+arenque,30,37,45,60,oceano,qualquer,qualquer,inverno,qualquer,30,37,45,60,qualquer horário
+enguia,85,106,127,170,oceano,16,26,primavera,chuva,85,106,127,170,tarde
+enguia,85,106,127,170,oceano,16,26,outono,chuva,85,106,127,170,tarde
+polvo,150,187,225,300,oceano,6,13,verão,qualquer,150,187,225,300,manhã
+cioba,50,62,75,100,oceano,6,19,verão,chuva,50,62,75,100,manhã
+cioba,50,62,75,100,oceano,6,19,outono,chuva,50,62,75,100,manhã
+cioba,50,62,75,100,oceano,6,19,inverno,chuva,50,62,75,100,manhã
+lula,80,100,120,160,oceano,18,26,inverno,qualquer,80,100,120,160,noite/madrugada
+pepino-do-mar,75,93,112,150,oceano,6,19,outono,qualquer,75,93,112,150,manhã
+pepino-do-mar,75,93,112,150,oceano,6,19,inverno,qualquer,75,93,112,150,manhã
+superpepino,250,312,375,500,oceano,18,26,verão,qualquer,250,312,375,500,noite/madrugada
+superpepino,250,312,375,500,oceano,18,26,outono,qualquer,250,312,375,500,noite/madrugada
+peixe-fantasma,45,56,67,90,mina,qualquer,qualquer,todas,qualquer,45,56,67,90,qualquer horário
+peixe-pedra,300,375,450,600,mina,qualquer,qualquer,todas,qualquer,300,375,450,600,qualquer horário
+chione,500,625,750,1000,mina,qualquer,qualquer,todas,qualquer,500,625,750,1000,qualquer horário
+enguia de lava,700,875,1050,1400,mina,qualquer,qualquer,todas,qualquer,700,875,1050,1400,qualquer horário
+areinha,75,93,112,150,o deserto,6,20,todas,qualquer,75,93,112,150,manhã
+carpa escorpiônica,150,187,225,300,o deserto,6,20,todas,qualquer,150,187,225,300,manhã
+linguado,100,125,150,200,oceano,6,20,primavera,qualquer,100,125,150,200,manhã
+linguado,100,125,150,200,oceano,6,20,verão,qualquer,100,125,150,200,manhã
+carpa da meia-noite,150,187,225,300,lago da montanha,22,26,outono,qualquer,150,187,225,300,noite/madrugada
+carpa da meia-noite,150,187,225,300,lago da montanha,22,26,inverno,qualquer,150,187,225,300,noite/madrugada
+carpa da meia-noite,150,187,225,300,lago da floresta,22,26,outono,qualquer,150,187,225,300,noite/madrugada
+carpa da meia-noite,150,187,225,300,lago da floresta,22,26,inverno,qualquer,150,187,225,300,noite/madrugada
+esturjão,200,250,300,400,lago da montanha,6,19,verão,qualquer,200,250,300,400,manhã
+esturjão,200,250,300,400,lago da montanha,6,19,inverno,qualquer,200,250,300,400,manhã
+salmão híbrido,150,187,225,300,rio,6,19,outono,qualquer,150,187,225,300,manhã
+salmão híbrido,150,187,225,300,rio,6,19,inverno,qualquer,150,187,225,300,manhã
+peixe-gato-cabeçudo,75,93,112,150,lago da montanha,qualquer,qualquer,todas,qualquer,75,93,112,150,qualquer horário
+tilápia,75,93,112,150,oceano,6,14,verão,qualquer,75,93,112,150,manhã
+tilápia,75,93,112,150,oceano,6,14,outono,qualquer,75,93,112,150,manhã
+esquálio,50,62,75,100,rio,qualquer,qualquer,todas,qualquer,50,62,75,100,qualquer horário
+dourado,100,125,150,200,rio,6,11,verão,qualquer,100,125,150,200,manhã
+albacora,75,93,112,150,oceano,6,11,outono,qualquer,75,93,112,150,manhã
+albacora,75,93,112,150,oceano,6,11,inverno,qualquer,75,93,112,150,manhã
+alocine,60,75,90,120,rio,9,26,primavera,chuva,60,75,90,120,manhã
+alocine,60,75,90,120,rio,9,26,verão,chuva,60,75,90,120,manhã
+alocine,60,75,90,120,rio,9,26,outono,chuva,60,75,90,120,manhã
+ófis,120,150,180,240,rio,qualquer,qualquer,inverno,qualquer,120,150,180,240,qualquer horário
+halibute,80,100,120,160,oceano,6,11,primavera,qualquer,80,100,120,160,manhã
+halibute,80,100,120,160,lago da montanha,6,11,primavera,qualquer,80,100,120,160,manhã
+halibute,80,100,120,160,oceano,6,11,verão,qualquer,80,100,120,160,manhã
+halibute,80,100,120,160,lago da montanha,6,11,verão,qualquer,80,100,120,160,manhã
+halibute,80,100,120,160,oceano,6,11,inverno,qualquer,80,100,120,160,manhã
+halibute,80,100,120,160,lago da montanha,6,11,inverno,qualquer,80,100,120,160,manhã
+madeirão,75,93,112,150,lagoa do bosque secreto,qualquer,qualquer,todas,qualquer,75,93,112,150,qualquer horário
+salmão nulo,150,187,225,300,pântano da bruxa,qualquer,qualquer,todas,qualquer,150,187,225,300,qualquer horário
+salmão mutante,100,125,150,200,covil dos insetos mutantes,qualquer,qualquer,todas,qualquer,100,125,150,200,qualquer horário
+peixe-leão,100,125,150,200,oceano da ilha gengibre,qualquer,qualquer,todas,qualquer,100,125,150,200,qualquer horário
+acará-disco azul,120,150,180,240,lagos e rios da ilha gengibre,qualquer,qualquer,todas,qualquer,120,150,180,240,qualquer horário
+gobi,150,187,225,300,cachoeira da floresta cinzaseiva,qualquer,qualquer,todas,qualquer,150,187,225,300,qualquer horário
+arraia,180,225,270,360,caverna do pirata,qualquer,qualquer,todas,qualquer,180,225,270,360,qualquer horário
